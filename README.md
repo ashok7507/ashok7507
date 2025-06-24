@@ -1,23 +1,14 @@
 ## 👨‍💻 About Me
 
-Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
+Hi, I'm **Ashok Bhosale**, a passionate DevOps Engineer with a love for cloud computing, automation, and building scalable applications. I'm always looking to learn new technologies, collaborate with talented people, and contribute to impactful projects.
 
 ---
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhipraydhoble/)
-
-
----
-
-
-![Abhipray's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipraydhoble&show_icons=true&theme=radical)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/aashoksbhosale)
 
 ---
-
 ## 🛠️ Tools & Technologies:
 
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
@@ -42,7 +33,7 @@ Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud 
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=abhipraydhoble&color=green&style=flat-square)
+![Visitor Count](https://komarev.com/ghpvc/?username=ashok7507&color=green&style=flat-square)
 
 ---
 
@@ -57,7 +48,7 @@ Hi, I'm **Abhipray Dhoble**, a passionate DevOps Engineer with a love for cloud 
 
 ## 🚀 Featured Projects
 
-### [🎮 Project Super Mario](https://github.com/abhipraydhoble/Project-Super-Mario)
+### [🎮 Project Super Mario](https://github.com/ashok7507/Project-Super-Mario)
 A nostalgic game inspired by Super Mario, built to explore game development fundamentals.
 
 - **Technologies**: HTML5, CSS3, JavaScript
@@ -81,7 +72,7 @@ An insurance management platform for managing policies, claims, and customer det
 
 ---
 
-### [📦 Project Angular App AWS](https://github.com/abhipraydhoble/Project-Angular-App-AWS)
+### [📦 Project Angular App AWS](https://github.com/ashok7507/Project-Angular-App-AWS)
 A serverless Angular application deployed on AWS infrastructure.
 
 - **Tech Stack**: Angular, AWS S3, CloudFront, Route 53
@@ -92,7 +83,7 @@ A serverless Angular application deployed on AWS infrastructure.
 
 ---
 
-### [📚 Project Student App](https://github.com/abhipraydhoble/Project-Student-App)
+### [📚 Project Student App](https://github.com/ashok7507/Project-Student-App)
 A student management system to handle registrations, grades, and profiles.
 
 - **Tech Stack**: Java Spring Boot, Angular
@@ -103,7 +94,7 @@ A student management system to handle registrations, grades, and profiles.
 
 ---
 
-### [🏛️ Project 3-Tier Student App](https://github.com/abhipraydhoble/Project-3-tier-Student-App)
+### [🏛️ Project 3-Tier Student App](https://github.com/ashok7507/Project-3-tier-Student-App)
 A robust 3-tier architecture for a student management application.
 
 - **Architecture**:
@@ -117,7 +108,7 @@ A robust 3-tier architecture for a student management application.
 
 ---
 
-### [🎥 Netflix Clone](https://github.com/abhipraydhoble/netflix)
+### [🎥 Netflix Clone](https://github.com/ashok7507/netflix)
 A Netflix-inspired application with movie browsing and streaming features.
 
 - **Tech Stack**: React.js, TMDB API
