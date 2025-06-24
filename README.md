@@ -9,6 +9,19 @@ Hi, I'm **Ashok Bhosale**, a passionate DevOps Engineer with a love for cloud co
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashoksbhosale/)
 
 ---
+
+## 🌱 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ashok7507&color=green&style=flat-square)
+
+---
+
 ## 🛠️ Tools & Technologies:
 
 | Linux | Terraform | Jenkins | Kubernets | Ansible | Ubuntu | Git | Docker | Git Hub | VS Code | AWS |
@@ -24,19 +37,6 @@ Hi, I'm **Ashok Bhosale**, a passionate DevOps Engineer with a love for cloud co
 ![devops-demo](https://github.com/user-attachments/assets/772a360f-1235-4bb9-a40e-bae6e144c1fe)
 
 ---
-
-## 🌱 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=ashok7507&color=green&style=flat-square)
-
----
-
 ## 📝 Latest Blog Posts
 
 - [Breaking Down Kubernetes ☸ Architecture: A Guide for Newbies](https://www.linkedin.com/pulse/breaking-down-kubernetes-architecture-guide-newbies-abhipray-dhoble-t1wlc/?trackingId=ZHNsEZ3aRcKuC9oQ5xdJLw%3D%3D)
