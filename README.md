@@ -6,7 +6,7 @@ Hi, I'm **Ashok Bhosale**, a passionate DevOps Engineer with a love for cloud co
 
 ## 🌐 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/aashoksbhosale)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashoksbhosale/)
 
 ---
 ## 🛠️ Tools & Technologies:
