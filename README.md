@@ -11,7 +11,6 @@ Hi, I'm **Ashok Bhosale**, a passionate DevOps Engineer with a love for cloud co
 ![x](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
-![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)
 ![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)
 ![Indeed](https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=Indeed&logoColor=white)
 [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/users/ashok_bhosale/manage_gigs)
@@ -30,17 +29,9 @@ Hi, I'm **Ashok Bhosale**, a passionate DevOps Engineer with a love for cloud co
 
 ---
 # awesome-learning
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://www.fiverr.com/users/ashok_bhosale/manage_gigs)
-[![Build Status](https://travis-ci.org/TheRemoteLab/awesome-learning.svg?branch=master)](https://travis-ci.org/TheRemoteLab/awesome-learning)
-![DevOps](https://img.shields.io/badge/Build%20For-DevOps-blue.svg)
-[![License](https://img.shields.io/badge/License-CC%204.0-brightgreen.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
-[![Slack](https://img.shields.io/badge/Community-Slack-orange.svg)](https://letsdevops.slack.com)
-
-... because learning DevOps is awesome
 
 ![learning](https://cloud.githubusercontent.com/assets/8342133/12172223/a0db04b8-b575-11e5-9dfd-51fbf7c58de8.gif)
 
-===========================================================
 ---
 
 ## 🛠️ Tools & Technologies:
